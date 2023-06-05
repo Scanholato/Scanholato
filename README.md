@@ -1,5 +1,5 @@
 ### Hi there 👋😄 
-[![Linkedin Badge](https://img.shields.io/badge/-Murilo%20Scanholato-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/murilo-scanholato-472483239/](https://www.linkedin.com/in/murilo-scanholato-472483239/) 
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/murilo-scanholato-472483239/)
 
 
 
