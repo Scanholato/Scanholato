@@ -1,5 +1,5 @@
 ### Hi there 👋😄 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/murilo-scanholato-472483239/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/murilo-scanholato-472483239/)](https://www.linkedin.com/in/murilo-scanholato-472483239/)
 
 ![ms](https://github.com/Scanholato/Scanholato/assets/133668651/627ef0a4-4d97-4769-a0ef-ef1b5aea5859)
 
