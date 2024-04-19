@@ -1,7 +1,8 @@
 ### Hi there 👋😄 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/murilo-scanholato-472483239/)](https://www.linkedin.com/in/murilo-scanholato-472483239/)
 
-![ms](https://github.com/Scanholato/Scanholato/assets/133668651/627ef0a4-4d97-4769-a0ef-ef1b5aea5859)
+![capamurilao](https://github.com/Scanholato/Scanholato/assets/133668651/21017ed8-ad04-41d1-bd37-b60ab169dcdc)
+
 
 
 Estudante de engenharia da computação 💻
